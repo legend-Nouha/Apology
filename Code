@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>I'm Sorry, My Love</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            text-align: center;
+            background-color: #fffbea;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #f39c12;
+        }
+        .flower-images {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin: 20px 0;
+        }
+        .flower-images img {
+            margin: 10px;
+            max-width: 45%;
+            height: auto;
+            border-radius: 10px;
+            border: 3px solid #f39c12;
+        }
+        .letter {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 600px;
+            font-size: 1.2em;
+        }
+        .letter p {
+            line-height: 1.6;
+        }
+        audio {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>I'm Sorry, My Love</h1>
+    <div class="flower-images">
+        <img src="56768ed5254298071d118bee9a98befe.jpg" alt="White and Pink Flowers">
+        <img src="Yellow-Rose-Bridal-Bouquet.jpeg" alt="Yellow and White Flowers">
+    </div>
+    <div class="letter">
+        <p>Dear [Her Name],</p>
+        <p>I want to apologize from the bottom of my heart for every word I said. I know I hurt you, and that is the last thing I ever wanted to do. You mean the world to me, and every moment without you feels incomplete.</p>
+        <p>Please forgive me, my love. I promise to make things right and cherish every moment with you. You are my everything, and I can't imagine my life without your beautiful smile and your warm embrace.</p>
+        <p>With all my love,<br>Nouhaila</p>
+    </div>
+    <audio controls autoplay loop>
+        <source src="d4vd  Here With Me Lyrics.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</body>
+</html>
